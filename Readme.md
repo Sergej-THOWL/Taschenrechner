@@ -16,7 +16,7 @@ mini_calculator/
     └── add.py              # Beispielmodul: Addition
 ```
 ## Aufgabe pro Gruppe
-1. Holt euch den Code (git clone oder Fork)
+1. Hölt euch den Code (git clone oder Fork)
 2. Erstellt einen Branch für euer Feature: z. B. `feature/multiply`
 3. Erstellt ein neues Python-File in `features/`, z. B. `multiply.py`
 4. Schreibt eine `calculate(a, b)` Funktion
